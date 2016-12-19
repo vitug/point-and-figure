@@ -1,0 +1,2 @@
+#!/bin/sh
+bokeh serve /home/jupyter/bokeh/pf/pf_app.py --host 178.62.242.7:5006 --unused-session-lifetime 100 --check-unused-sessions 10 &

@@ -1,0 +1,2 @@
+#!/bin/sh
+bokeh serve pf_restart.py --host 178.62.242.7:5007 --port 5007 --unused-session-lifetime 100 --check-unused-sessions 10 &
